@@ -1,0 +1,14 @@
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\bin\Release\CalcAssign.exe.config
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\bin\Release\CalcAssign.exe
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\bin\Release\CalcAssign.pdb
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\MainWindow.g.cs
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\App.g.cs
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\CalcAssign_MarkupCompile.cache
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\CalcAssign_MarkupCompile.lref
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\MainWindow.baml
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\CalcAssign.g.resources
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\CalcAssign.Properties.Resources.resources
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\CalcAssign.csproj.GenerateResource.Cache
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\CalcAssign.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\CalcAssign.exe
+C:\Users\sweit_000\source\repos\CalcAssign\CalcAssign\obj\Release\CalcAssign.pdb

@@ -1,0 +1,50 @@
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\bin\Debug\NewDataGrid.exe.config
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\bin\Debug\NewDataGrid.exe
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\bin\Debug\NewDataGrid.pdb
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.csprojResolveAssemblyReference.cache
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\MainWindow.g.cs
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\App.g.cs
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid_MarkupCompile.cache
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid_MarkupCompile.lref
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\MainWindow.baml
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.g.resources
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.Properties.Resources.resources
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.csproj.GenerateResource.Cache
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.exe
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.pdb
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\bin\Debug\Books.xml
+R:\rmk3\CIT386\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid_Content.g.cs
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\bin\Debug\Books.xml
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\bin\Debug\NewDataGrid.exe.config
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\bin\Debug\NewDataGrid.exe
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\bin\Debug\NewDataGrid.pdb
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.csprojResolveAssemblyReference.cache
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\App.g.cs
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid_Content.g.cs
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid_MarkupCompile.cache
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid_MarkupCompile.lref
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\MainWindow.baml
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.g.resources
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.Properties.Resources.resources
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.csproj.GenerateResource.Cache
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.exe
+C:\Users\sweit_000\Desktop\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.pdb
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\bin\Debug\Books.xml
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\bin\Debug\NewDataGrid.exe.config
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\bin\Debug\NewDataGrid.exe
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\bin\Debug\NewDataGrid.pdb
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.csprojResolveAssemblyReference.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\App.g.cs
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid_Content.g.cs
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid_MarkupCompile.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid_MarkupCompile.lref
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\MainWindow.baml
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.g.resources
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.Properties.Resources.resources
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.csproj.GenerateResource.Cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.exe
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\NewDataGrid\NewDataGrid\obj\Debug\NewDataGrid.pdb

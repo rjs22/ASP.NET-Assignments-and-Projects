@@ -1,0 +1,32 @@
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\bin\Debug\DataGridEx2.exe.config
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\bin\Debug\DataGridEx2.exe
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\bin\Debug\DataGridEx2.pdb
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.csprojResolveAssemblyReference.cache
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\MainWindow.g.cs
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\App.g.cs
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2_MarkupCompile.cache
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2_MarkupCompile.lref
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\MainWindow.baml
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.g.resources
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.Properties.Resources.resources
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.csproj.GenerateResource.Cache
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.exe
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.pdb
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\bin\Debug\Books.xml
+C:\Users\sweit_000\source\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2_Content.g.cs
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\bin\Debug\DataGridEx2.exe.config
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\bin\Debug\DataGridEx2.exe
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\bin\Debug\DataGridEx2.pdb
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.csprojResolveAssemblyReference.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\MainWindow.g.cs
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\App.g.cs
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2_MarkupCompile.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2_MarkupCompile.lref
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\MainWindow.baml
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.g.resources
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.Properties.Resources.resources
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.csproj.GenerateResource.Cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.exe
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\DataGridEx2\DataGridEx2\obj\Debug\DataGridEx2.pdb

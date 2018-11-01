@@ -1,0 +1,7 @@
+c:\users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\Threading\Threading\bin\Debug\Threading.exe.config
+c:\users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\Threading\Threading\bin\Debug\Threading.exe
+c:\users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\Threading\Threading\bin\Debug\Threading.pdb
+c:\users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+c:\users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+c:\users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\Threading\Threading\obj\Debug\Threading.exe
+c:\users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\Threading\Threading\obj\Debug\Threading.pdb

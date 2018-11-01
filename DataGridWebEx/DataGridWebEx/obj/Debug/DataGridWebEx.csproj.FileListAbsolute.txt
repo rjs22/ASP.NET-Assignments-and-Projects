@@ -1,0 +1,15 @@
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\bin\Debug\DataGridWebEx.exe.config
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\bin\Debug\DataGridWebEx.exe
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\bin\Debug\DataGridWebEx.pdb
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\DataGridWebEx.csprojResolveAssemblyReference.cache
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\MainWindow.g.cs
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\App.g.cs
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\DataGridWebEx_MarkupCompile.cache
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\DataGridWebEx_MarkupCompile.lref
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\MainWindow.baml
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\DataGridWebEx.g.resources
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\DataGridWebEx.Properties.Resources.resources
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\DataGridWebEx.csproj.GenerateResource.Cache
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\DataGridWebEx.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\DataGridWebEx.exe
+C:\Users\sweit_000\source\repos\DataGridWebEx\DataGridWebEx\obj\Debug\DataGridWebEx.pdb

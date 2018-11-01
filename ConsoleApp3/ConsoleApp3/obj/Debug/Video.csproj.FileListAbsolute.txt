@@ -1,0 +1,8 @@
+c:\users\sweit_000\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\sweit_000\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\sweit_000\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\sweit_000\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\libvideo.dll
+c:\users\sweit_000\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\Video.csprojResolveAssemblyReference.cache
+c:\users\sweit_000\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\Video.csproj.CoreCompileInputs.cache
+c:\users\sweit_000\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\sweit_000\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

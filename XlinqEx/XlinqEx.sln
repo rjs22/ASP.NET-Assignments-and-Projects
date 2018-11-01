@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XlinqEx", "XlinqEx\XlinqEx.csproj", "{B9DCEA8C-A310-408B-91C2-158BFC7BD2AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9DCEA8C-A310-408B-91C2-158BFC7BD2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DCEA8C-A310-408B-91C2-158BFC7BD2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DCEA8C-A310-408B-91C2-158BFC7BD2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DCEA8C-A310-408B-91C2-158BFC7BD2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3791E72E-5684-489B-8381-BEC2C022582A}
+	EndGlobalSection
+EndGlobal

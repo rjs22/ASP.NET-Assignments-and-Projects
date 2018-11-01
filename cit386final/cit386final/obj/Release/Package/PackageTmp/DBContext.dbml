@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CIT386" Class="DBContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=&quot;srprojdb.cuybsg3vwgxe.us-east-2.rds.amazonaws.com, 1433&quot;;Initial Catalog=CIT386;Persist Security Info=True;User ID=awssweitz" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="CIT386ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.zips" Member="zips">
+    <Type Name="zip">
+      <Column Name="zip" Member="zip1" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="state" Type="System.String" DbType="VarChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="city" Type="System.String" DbType="VarChar(27) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.states" Member="states">
+    <Type Name="state">
+      <Column Name="abbrv" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(2) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

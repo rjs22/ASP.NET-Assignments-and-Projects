@@ -1,0 +1,15 @@
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\bin\Debug\DynamicUI.exe.config
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\bin\Debug\DynamicUI.exe
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\bin\Debug\DynamicUI.pdb
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\DynamicUI.csprojResolveAssemblyReference.cache
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\MainWindow.g.cs
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\App.g.cs
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\DynamicUI_MarkupCompile.cache
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\DynamicUI_MarkupCompile.lref
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\MainWindow.baml
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\DynamicUI.g.resources
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\DynamicUI.Properties.Resources.resources
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\DynamicUI.csproj.GenerateResource.Cache
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\DynamicUI.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\DynamicUI.exe
+C:\Users\sweit_000\source\repos\DynamicUI\DynamicUI\obj\Debug\DynamicUI.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Authors>
+  <Author Author="Mahesh Chand">
+    <Book>GDI+ Programming</Book>
+    <Cost>$49.95</Cost>
+    <Publisher>Addison-Wesley</Publisher>
+  </Author>
+  <Author Name="Mike Gold">
+    <Book>Programmer's Guide to C#</Book>
+    <Cost>$44.95</Cost>
+    <Publisher>Microgold Publishing</Publisher>
+  </Author>
+  <Author Name="Scott Lysle">
+    <Book>Custom Controls</Book>
+    <Cost>$39.95</Cost>
+    <Publisher>C# Corner</Publisher>
+  </Author>
+</Authors>

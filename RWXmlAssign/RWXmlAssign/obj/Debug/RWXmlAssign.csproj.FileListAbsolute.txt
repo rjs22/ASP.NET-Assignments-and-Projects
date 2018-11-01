@@ -1,0 +1,15 @@
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\RWXmlAssign.csprojResolveAssemblyReference.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\MainWindow.g.cs
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\App.g.cs
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\RWXmlAssign_MarkupCompile.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\RWXmlAssign_MarkupCompile.lref
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\bin\Debug\RWXmlAssign.exe.config
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\bin\Debug\RWXmlAssign.exe
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\bin\Debug\RWXmlAssign.pdb
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\MainWindow.baml
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\RWXmlAssign.g.resources
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\RWXmlAssign.Properties.Resources.resources
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\RWXmlAssign.csproj.GenerateResource.Cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\RWXmlAssign.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\RWXmlAssign.exe
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\RWXmlAssign\RWXmlAssign\obj\Debug\RWXmlAssign.pdb

@@ -1,0 +1,9 @@
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\cit386final\cit386final\bin\cit386final.dll.config
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\cit386final\cit386final\bin\cit386final.dll
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\cit386final\cit386final\bin\cit386final.pdb
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\cit386final\cit386final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\cit386final\cit386final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\cit386final\cit386final\obj\Debug\cit386final.csprojResolveAssemblyReference.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\cit386final\cit386final\obj\Debug\cit386final.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\cit386final\cit386final\obj\Debug\cit386final.dll
+C:\Users\sweit_000\Documents\School\Fall 2017\CIT386-01 .net\repos\cit386final\cit386final\obj\Debug\cit386final.pdb

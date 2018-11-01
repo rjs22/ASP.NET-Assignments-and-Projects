@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAH77TJfqsckGKMvpd+5CbagAAAAACAAAAAAAQZgAAAAEAACAAAACTPngkwmLORkQ/8b2cqCZX31LfYKu1gZ4Hhm/i8Yc50wAAAAAOgAAAAAIAACAAAADmo57g9vKU5LzeBiClM8XgGzVnEH73AXwUElONVZyQh1AAAADWss5nuOARE4HBXgB0FddeT7fTdIPhpPBzliSHRlUgu4XSf1PpLK3bWIS+ADljF4jfRKt6MkKVKPhY8Y1+PleQIDVjzPRopaUF+KTOw6HDbkAAAABurOsTOzGyHzbRq/wcoqu4lcU8eTUcj/AZi4V8H++I/Vroyy3PA8efA7UC3jTZM2bVrj2Nm7VkmuGF16PsTEkX</EncryptedPassword>
+    <_PublishTargetUrl>ftp://18.220.77.176</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/cit386final.dll">
+      <publishTime>12/08/2017 16:02:54</publishTime>
+    </File>
+    <File Include="bin/cit386final.pdb">
+      <publishTime>12/08/2017 16:02:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/15/2017 13:12:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/13/2017 15:47:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>04/13/2017 15:47:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>04/13/2017 15:47:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>04/13/2017 15:47:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>04/13/2017 15:47:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>04/13/2017 15:47:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>04/13/2017 15:47:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.Process.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.DriveInfo.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Thread.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>04/13/2017 15:47:48</publishTime>
+    </File>
+    <File Include="DBContext.dbml">
+      <publishTime>12/08/2017 13:54:14</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>12/08/2017 14:01:53</publishTime>
+    </File>
+    <File Include="states/state-alabama.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-alaska.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-arizona.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-arkansas.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-california.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-colorado.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-connecticut.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-delaware.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-florida.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-georgia.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-hawaii.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-idaho.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-illinois.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-indiana.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-iowa.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-kansas.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-kentucky.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-louisiana.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-maine.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-maryland.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-massachusetts.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-michigan.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-minnesota.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-mississippi.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-missouri.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-montana.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-nebraska.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-nevada.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-new-hampshire.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-new-jersey.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-new-mexico.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-new-york.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-north-carolina.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-north-dakota.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-ohio.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-oklahoma.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-oregon.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-pennsylvania.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-rhode-island.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-south-carolina.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-south-dakota.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-tennessee.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-texas.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-utah.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-vermont.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-virginia.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-washington.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-west-virginia.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-wisconsin.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="states/state-wyoming.png">
+      <publishTime>12/08/2017 13:06:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/08/2017 14:14:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

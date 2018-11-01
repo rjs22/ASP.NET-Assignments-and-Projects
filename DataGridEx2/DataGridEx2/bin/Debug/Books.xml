@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Book>
+    <id>2</id>
+    <Title>The Prince</Title>
+    <Author>Some Guy that wrote</Author>
+  </Book>
+  <Book>
+    <id>3</id>
+    <Title>Hitchhikers Guide</Title>
+    <Author>SomeOne</Author>
+  </Book>
+  <Book>
+    <Title>will this change</Title>
+    <Author>because i'd be pissed</Author>
+  </Book>
+  <Book>
+    <Title>and i would have to start again</Title>
+    <Author>if it didnt</Author>
+  </Book>
+  <Book />
+</DocumentElement>

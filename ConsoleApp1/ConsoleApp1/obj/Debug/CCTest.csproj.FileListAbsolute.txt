@@ -1,0 +1,9 @@
+C:\Users\sweit_000\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\CCTest.csprojResolveAssemblyReference.cache
+C:\Users\sweit_000\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\CCTest.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sweit_000\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sweit_000\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sweit_000\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\AuthorizeNet.dll
+C:\Users\sweit_000\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\AuthorizeNet.xml
+C:\Users\sweit_000\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sweit_000\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

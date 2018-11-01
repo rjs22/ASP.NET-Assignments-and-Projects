@@ -1,0 +1,15 @@
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe.config
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.pdb
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csprojResolveAssemblyReference.cache
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\MainWindow.g.cs
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\App.g.cs
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo_MarkupCompile.cache
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo_MarkupCompile.lref
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\MainWindow.baml
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.g.resources
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.Properties.Resources.resources
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csproj.GenerateResource.Cache
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.exe
+C:\Users\sweit_000\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.pdb
